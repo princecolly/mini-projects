@@ -1,4 +1,5 @@
 # Py Hangman
+# Courtesy of [Bro Code](https://www.youtube.com/@BroCodez)
 
 import random
 import json
